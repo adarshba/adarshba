@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adarsh!
 - 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning Google Cloud
 - 💞️ I’m looking to collaborate on any cloud project.
 - 📫 You can talk to me at adarsh.bhaskar7903@gmail.com
