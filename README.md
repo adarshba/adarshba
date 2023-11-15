@@ -5,9 +5,9 @@
 Welcome to my GitHub profile! I'm a machine learning enthusiast who loves coding in Python and is proficient in object-oriented programming, data structures, and algorithms. Here, you'll find some of my projects and contributions.
 
 ## About Me
-- 🌱 I'm currently learning [Machine Learning]
-- 👯 I'm looking to collaborate on [Machine Learning Projects]
-- 💬 Ask me about [Anything Tech-Related]
+- 🌱 I'm currently learning Machine Learning
+- 👯 I'm looking to collaborate on Machine Learning Projects
+- 💬 Ask me about "Anything Tech-Related"
 
 ## My Tech Stack
 - Programming Languages: Python, Rust
