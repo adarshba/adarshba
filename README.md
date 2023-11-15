@@ -1,4 +1,4 @@
-# Hi there, I'm [Adarsh] 👋
+# Hi there, I'm Adarsh 👋
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/b-a-adarsh/)
 [![LeetCode](https://img.shields.io/badge/-Check%20out%20my%20LeetCode%20Profile-yellow?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/Adarsh_079/)
 
