@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a machine learning enthusiast who loves coding
 - Tools: VS Code, Git
 
 ## My Projects
-- [Project 1](https://github.com/Adarsh79/Python-PowerBall-Game) - A really fun game to play! Check it out!.
+- [Powerball game](https://github.com/Adarsh79/Python-PowerBall-Game) - A really fun game to play! Check it out!.
 
 ## LeetCode Profile
 ![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Adarsh_079)
