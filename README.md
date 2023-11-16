@@ -82,28 +82,19 @@ Welcome to my GitHub profile! I'm a machine learning enthusiast who loves coding
 <!-- You can generate the LeetCode Stats badge at https://github.com/marketplace/actions/leetcode-stats -->
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adarsh79&show_icons=true)
-
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh79&" alt="adarsh79" />
 </p>
-
-<!-- You can generate the GitHub Stats badge at https://github.com/anuraghazra/github-readme-stats -->
 
 ## Let's Connect
 
 <p align="left">
 
   <a href="https://linkedin.com/in/adarsh b a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh b a" height="30" width="40" /></a>
-
   <a href="https://stackoverflow.com/users/17318713" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17318713" height="30" width="40" /></a>
-
   <a href="https://kaggle.com/adarshbhaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adarshbhaskar" height="30" width="40" /></a>
-
   <a href="https://instagram.com/adarsh_0793" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adarsh_0793" height="30" width="40" /></a>
-
   <a href="https://medium.com/@adarsh.bhaskar7903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adarsh.bhaskar7903" height="30" width="40" /></a>
-
   <a href="https://www.leetcode.com/adarsh_079" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adarsh_079" height="30" width="40" /></a>
   
 </p>
