@@ -10,7 +10,7 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
-![background.png](./images/github-back.png)
+![background.png](./images/github-back.jpg)
 
 <br>
 
