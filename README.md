@@ -30,9 +30,7 @@
 
 <p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adarsh79&show_icons=true&count_private=true&theme=aura_dark" />
 
-<p align="center"><img align="center" height=195px width=467px src="https://leetcode-stats-six.vercel.app/api?username=Adarsh_079" />
-
-<!--[![Aryamans's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Adarsh79&theme=monokai)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+<p align="center"><img align="center" src="https://leetcode-stats-six.vercel.app/api?username=Adarsh_079" height="195" width="467" />
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
