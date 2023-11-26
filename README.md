@@ -38,7 +38,7 @@
 
 <!-- ----------- CONNECT WITH ME SECTION ------------ -->
 
-![connect-with-me.png](./images/connect-with-me.png)
+![connect-with-me.png](./images/contact.png)
 
 <p align="center">
 <a href="https://discordapp.com/users/adarshbhaskar/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="aryamanz29"/></a> <a href="https://www.linkedin.com/in/b-a-adarsh" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Adarsh_LinkedIn"/></a> <a href="https://www.instagram.com/adarsh_7903/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="adarsh_7903" /></a>
