@@ -1,102 +1,60 @@
-# Hi there, I'm Adarsh 👋
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/b-a-adarsh/)
-[![LeetCode](https://img.shields.io/badge/-Check%20out%20my%20LeetCode%20Profile-yellow?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/Adarsh_079/)
+<!-- ----------- HEAD SECTION ------------ -->
 
-Welcome to my GitHub profile! I'm a machine learning enthusiast who loves coding in Python and is proficient in object-oriented programming, data structures, and algorithms. Here, you'll find some of my projects and contributions.
+<!-- ![banner.png](./images/github-banner.png)
 
-## About Me
-- 🌱 I'm currently learning Machine Learning
-- 👯 I'm looking to collaborate on Machine Learning Projects
-- 💬 Ask me about "Anything Tech-Related"
-- 📫 How to reach me **adarsh.bhaskar7903@gmail.com**
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png) -->
 
-## My Tech Stack
-<p align="left">
-
-  <!-- Programming Languages -->
-  #### Programming Languages:
-  </b>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
-  </b></b>
-
-  <!-- Frontend Development -->
-  #### Frontend Development:
-  </b>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  </b></b>
-
-  <!-- AI/ML -->
-  #### AI/ML:
-  </b>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  </b></b>
-
-  <!-- Database -->
-  #### Database:
-  </b>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  </b></b>
-
-  <!-- Devops -->
-  #### Devops:
-  </b>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-  </b></b>
-
-  <!-- Framework -->
-  #### Framework:
-  </b>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-  </b></b>
-
-  <!-- Others -->
-  #### Others:
-  </b>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  </b></b>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=ec9783&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋🏻+I'm+Adarsh;+Devops+Enthusiast+☀;Machine+Learning+Engineer+💻;">
 </p>
 
-## My Projects
-- [Powerball game](https://github.com/Adarsh79/Python-PowerBall-Game) - A really fun game to play! Check it out!.
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
-## LeetCode Profile
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Adarsh_079)
+![background.png](./images/github-back.png)
 
-<!-- You can generate the LeetCode Stats badge at https://github.com/marketplace/actions/leetcode-stats -->
+<br>
 
-## GitHub Stats
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh79&" alt="adarsh79" />
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
+
+<!-- ----------- HEAD SECTION END ------------ -->
+
+<!-- ----------- TECH STACK SECTION ------------ -->
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
+
+<!-- ----------- TECH STACK SECTION END------------ -->
+
+<!-- ----------- GITHUB STATS SECTION ------------ -->
+
+<p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adarsh79&show_icons=true&count_private=true&theme=aura_dark" />
+
+<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=Adarsh79&theme=onedark_duo" />
+
+<!--[![Aryamans's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Adarsh79&theme=monokai)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
+
+<!-- ----------- GITHUB STATS SECTION END ------------ -->
+
+<!-- ----------- CONNECT WITH ME SECTION ------------ -->
+
+![connect-with-me.png](./images/connect-with-me.png)
+
+<p align="center">
+<a href="https://discordapp.com/users/adarshbhaskar/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="aryamanz29"/></a> <a href="https://www.linkedin.com/in/b-a-adarsh" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Adarsh_LinkedIn"/></a> <a href="https://www.instagram.com/adarsh_7903/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="adarsh_7903" /></a>
+<br>
+<br>
+<a href="https://twitter.com/AdarshB79" target="blank"><img src="https://img.shields.io/twitter/follow/AdarshB79?logo=twitter&style=for-the-badge" alt="AdarshB79" /></a>
 </p>
 
-## Let's Connect
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
-<p align="left">
+<!-- ----------- CONNECT WITH ME SECTION END ------------ -->
 
-  <a href="https://linkedin.com/in/adarsh b a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh b a" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/17318713" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17318713" height="30" width="40" /></a>
-  <a href="https://kaggle.com/adarshbhaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adarshbhaskar" height="30" width="40" /></a>
-  <a href="https://instagram.com/adarsh_0793" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adarsh_0793" height="30" width="40" /></a>
-  <a href="https://medium.com/@adarsh.bhaskar7903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adarsh.bhaskar7903" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/adarsh_079" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adarsh_079" height="30" width="40" /></a>
-  
-</p>
-
-
+[twitter]: https://twitter.com/AdarshB79
+[instagram]: https://www.instagram.com/adarsh_7903/
+[linkedin]: https://www.linkedin.com/in/b-a-adarsh
+[github]:https://github.com/Adarsh79
+[gmail]:mailto:adarsh.bhaskar7903@gmail.com
