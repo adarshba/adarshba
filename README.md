@@ -1,8 +1,8 @@
 <!-- ----------- HEAD SECTION ------------ -->
 
-<!-- ![banner.png](./images/github-banner.png)
+![banner.png](./images/github-banner.png)
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png) -->
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=ec9783&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋🏻+I'm+Adarsh;+Devops+Enthusiast+☀;Machine+Learning+Engineer+💻;">
