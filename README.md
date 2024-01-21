@@ -8,11 +8,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=ec9783&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋🏻+I'm+Adarsh;+Devops+Enthusiast+☀;Machine+Learning+Engineer+💻;">
 </p>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
+<!-- ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png) -->
 
-![background.png](./images/github-back.jpg)
-
-<br>
+<!-- ![background.png](./images/github-back.jpg) -->
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
@@ -38,7 +36,7 @@
 
 <!-- ----------- CONNECT WITH ME SECTION ------------ -->
 
-![connect-with-me.png](./images/contact.png)
+<!-- ![connect-with-me.png](./images/contact.png) -->
 
 <p align="center">
 <a href="https://discordapp.com/users/adarshbhaskar/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="aryamanz29"/></a> <a href="https://www.linkedin.com/in/b-a-adarsh" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Adarsh_LinkedIn"/></a> <a href="https://www.instagram.com/adarsh_7903/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="adarsh_7903" /></a>
