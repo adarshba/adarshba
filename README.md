@@ -1,38 +1,25 @@
-<div align="center">
+<div align="center" style="max-width:760px;margin:40px auto;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial;color:#e6eef3;">
 
-# Adarsh B A
+<h1 style="margin:0 0 10px 0;">Adarsh B A</h1>
 
+<p style="color:#9aa4ad;margin:0 0 40px 0;line-height:1.45;max-width:700px;">
 Engineer with a long-time curiosity for computers and how things fit together.  
-I enjoy building systems that feel clean and reliable, whether it’s backend services in Rust or interfaces in Svelte.  
-You’ll usually find me debugging something, refining performance, or crafting tools that make development smoother.  
-Ask me about deployments, Docker/K8s, Python APIs, or Rust services.
+I enjoy building reliable systems — usually debugging something, tuning performance, or shaping tools that make development smoother.
+</p>
 
----
+<div style="display:flex; gap:16px; justify-content:center; flex-wrap:wrap;">
 
-### Socials
+  <div style="width:200px;height:140px;background:#0a0f12;border-radius:12px;padding:8px;box-shadow:0 8px 20px rgba(0,0,0,0.55);border:1px solid rgba(255,255,255,0.05);display:flex;align-items:center;justify-content:center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=adarshba&show_icons=true&theme=dark&hide_border=false" 
+         alt="GitHub Stats" 
+         style="width:100%;height:100%;object-fit:cover;border-radius:8px;" />
+  </div>
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/adarshbhaskar/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarshba)
-[![Twitter](https://img.shields.io/twitter/follow/adarshba_?logo=twitter&style=for-the-badge)](https://twitter.com/adarshba_)
+  <div style="width:200px;height:140px;background:#0a0f12;border-radius:12px;padding:8px;box-shadow:0 8px 20px rgba(0,0,0,0.55);border:1px solid rgba(255,255,255,0.05);display:flex;align-items:center;justify-content:center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshba&layout=compact&theme=dark&hide_border=false" 
+         alt="Top Languages" 
+         style="width:100%;height:100%;object-fit:cover;border-radius:8px;" />
+  </div>
 
----
-
-### Tech Stack
-
-Google Cloud • Python • Rust • Svelte • TypeScript
-
----
-
-### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=adarshba&theme=dark&hide_border=false" width="420" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshba&theme=dark&hide_border=false" width="420" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshba&theme=dark&hide_border=false&layout=compact" width="420" />
-
----
-
-### Top Contributions
-
-<img src="https://github-contributor-stats.vercel.app/api?username=adarshba&limit=5&theme=dark&combine_all_yearly_contributions=true" width="420" />
-
+</div>
 </div>
