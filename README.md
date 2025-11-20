@@ -10,7 +10,7 @@
   color:#e6eef3;
 ">
 
-<h1 style="margin:0 0 14px 0;">Adarsh</h1>
+<h1 style="margin:0 0 14px 0;">Adarsh B A</h1>
 
 <p style="color:#9aa4ad;margin:0 0 42px 0;line-height:1.45;">
 Engineer with a long-time curiosity for computers and how things fit together.  
