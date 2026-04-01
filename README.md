@@ -37,6 +37,11 @@ I enjoy building systems that feel clean and reliable — usually debugging, tun
 <span style="color: #6e7681;"> — query logs intelligently · TypeScript</span>
 </p>
 
+<p style="font-size: 0.9rem; margin: 0 0 40px 0; letter-spacing: -0.01em;">
+<a href="https://github.com/adarshba/openbridge" style="color: #58a6ff; text-decoration: none;">openbridge</a>
+<span style="color: #6e7681;"> — remotely control your opencode sessions · Swift</span>
+</p>
+
 <div style="border-top: 1px solid rgba(255,255,255,0.08); margin: 0 0 24px 0;"></div>
 
 <p style="font-size: 0.8rem; color: #6e7681; margin: 0; letter-spacing: -0.01em;">adarshba</p>
