@@ -40,7 +40,15 @@ I enjoy building systems that feel clean and reliable — usually debugging, tun
 <p style="font-size: 0.9rem; margin: 0 0 40px 0; letter-spacing: -0.01em;">
 <a href="https://github.com/adarshba/openbridge" style="color: #58a6ff; text-decoration: none;">openbridge</a>
 <span style="color: #6e7681;"> — remotely control your opencode sessions · Swift</span>
+
+<p style="font-size: 0.9rem; margin: 0 0 40px 0; letter-spacing: -0.01em;">
+<a href="https://github.com/adarshba/lgtm-mcp" style="color: #58a6ff; text-decoration: none;">lgtm-mcp</a>
+<span style="color: #6e7681;"> — query insights on your lgtm stack · Rust</span>
 </p>
+
+<p style="font-size: 0.9rem; margin: 0 0 40px 0; letter-spacing: -0.01em;">
+<a href="https://github.com/adarshba/kibana-mcp" style="color: #58a6ff; text-decoration: none;">kibana-mcp</a>
+<span style="color: #6e7681;"> — query kibana logs · TypeScript</span>
 
 <div style="border-top: 1px solid rgba(255,255,255,0.08); margin: 0 0 24px 0;"></div>
 
